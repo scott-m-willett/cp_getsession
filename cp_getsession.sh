@@ -6,7 +6,7 @@
 # Only tested on model RMCARD203 with hardware version 2.0 and firmware version 2.2.2
 
 # Input the IP address of your unit here:
-ip="172.16.1.17"
+ip=""
 
 # Numbers used in the middle of the cookie string
 middle_numbers="0842"
